@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lordson-silver&label=Profile%20views&color=0e75b6&style=flat" alt="lordson-silver" /> </p>
 
-- 📫 How to reach me **lordsonochuko8@gmail.com**
+- 📫 How to reach me **lordsonochuko5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
