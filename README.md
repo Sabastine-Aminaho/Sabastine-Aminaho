@@ -72,5 +72,5 @@
   <img align="center"
     src="https://spotify-github-profile.vercel.app/api/view?uid=313martpmty5gxrde5t3dqp3b7sm&cover_image=true&theme=default&bar_color_cover=true"
     alt="spotify" />
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </a>
+<!--<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>-->
