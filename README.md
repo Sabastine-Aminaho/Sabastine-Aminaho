@@ -66,8 +66,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordson-silver&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordson-silver&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lordson-ajatiton-software-developer" data-version="v1" align="center"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/lordson-ajatiton-software-developer?trk=profile-badge">Connect with me on LinkedIn</a></div><br>
+              
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="center"
     src="https://spotify-github-profile.vercel.app/api/view?uid=313martpmty5gxrde5t3dqp3b7sm&cover_image=true&theme=default&bar_color_cover=true"
     alt="spotify" />
 </a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
