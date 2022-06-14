@@ -13,7 +13,7 @@
    <!--
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lordsonsilver" height="30" width="40" /></a>-->
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lordson" height="30" width="40" /></a>
-<a href="https://ng.linkedin.com/in/lordson-ajatiton-software-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kordson" height="30" width="40" /></a>
+<a href="https://ng.linkedin.com/in/lordson-ajatiton-software-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lordson" height="30" width="40"/></a>
 <!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="#" height="30" width="40" /></a> -->
 <!-- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="lordsonsilver" height="30" width="40" /></a> -->
 <!--<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="lordsonsilver" height="30" width="40" /></a>-->
