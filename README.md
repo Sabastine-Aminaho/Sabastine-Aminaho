@@ -1,8 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/lordson-silver/lordson-silver/main/wave.gif" width="30px">, I'm <span style="color:#FF6820">L</span>ordson <span style="color:#FF6820">S</span>ilver<a href="#">
-<img src="https://raw.githubusercontent.com/lordson-silver/lordson-silver/main/audio.svg">
-</audio></h1> 
+<h1 align="center">Hi <img src="wave.gif" width="30px">, I'm <span style="color:#FF6820">L</span>ordson <span style="color:#FF6820">S</span>ilver</h1> 
 
-<h3 align="center">A passionate developer from 🇳G <img src="https://raw.githubusercontent.com/lordson-silver/lordson-silver/main/type.webp" width="48"></h3>
+<h3 align="center">A passionate developer from 🇳G <img src="type.webp" width="48"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lordson-silver&label=Profile%20views&color=0e75b6&style=flat" alt="lordson-silver" /> </p>
 
