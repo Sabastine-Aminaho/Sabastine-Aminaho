@@ -15,21 +15,21 @@
 ### Skills:
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-D3D3D3?style=flat-square&logo=typescript&logoColor=3178C6)
 ![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat-square&logo=python&logoColor=3776AB)
-<!-- ![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat-square&logo=solidity&logoColor=363636) -->
-<!-- ![RUST](https://img.shields.io/badge/Rust-D3D3D3?style=flat-square&logo=rust&logoColor=000000) -->
 ![CPP](https://img.shields.io/badge/C++-D3D3D3?style=flat-square&logo=cplusplus&logoColor=00599C)
-<!-- ![GO](https://img.shields.io/badge/Go-D3D3D3?style=flat-square&logo=go&logoColor=00ADD8) -->
-<!-- ![LUA](https://img.shields.io/badge/Lua-D3D3D3?style=flat-square&logo=lua&logoColor=2C2D72) -->
 ![HTML](https://img.shields.io/badge/HTML-D3D3D3?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-D3D3D3?style=flat-square&logo=css3&logoColor=1572B6)
 ![React.js](https://img.shields.io/badge/React-D3D3D3?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-D3D3D3?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-<!-- ![Django](https://img.shields.io/badge/Django-D3D3D3?style=flat-square&logo=django&logoColor=092E20) -->
 ![NEXT.js](https://img.shields.io/badge/Next.js-D3D3D3?style=flat-square&logo=next.js&logoColor=000000)
+![LINUX](https://img.shields.io/badge/Linux-D3D3D3?style=flat-square&logo=linux&logoColor=FCC624)
+<!-- ![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat-square&logo=solidity&logoColor=363636) -->
+<!-- ![RUST](https://img.shields.io/badge/Rust-D3D3D3?style=flat-square&logo=rust&logoColor=000000) -->
 <!-- ![NEST.js](https://img.shields.io/badge/Nest.js-D3D3D3?style=flat-square&logo=nestJs&logoColor=E0234E) -->
 <!-- ![ETHEREUM](https://img.shields.io/badge/Ethereum-D3D3D3?style=flat-square&logo=ethereum&logoColor=3C3C3D) -->
 <!-- ![NEOVIM](https://img.shields.io/badge/Neovim-D3D3D3?style=flat-square&logo=neovim&logoColor=57A143) -->
-![LINUX](https://img.shields.io/badge/Linux-D3D3D3?style=flat-square&logo=linux&logoColor=FCC624)
+<!-- ![GO](https://img.shields.io/badge/Go-D3D3D3?style=flat-square&logo=go&logoColor=00ADD8) -->
+<!-- ![LUA](https://img.shields.io/badge/Lua-D3D3D3?style=flat-square&logo=lua&logoColor=2C2D72) -->
+<!-- ![Django](https://img.shields.io/badge/Django-D3D3D3?style=flat-square&logo=django&logoColor=092E20) -->
 
 ----
 
