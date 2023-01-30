@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lordson-silver&label=Profile%20views&color=0e75b6&style=flat" alt="lordson-silver" /> </p>
 
-- 📫 Have an Idea? Contact me 👉🏿 **lordsonochuko5@gmail.com**
+- 📫 Have an Idea? Contact me 👉🏿 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:lordsonochuko5@gmail.com)
 
 <!-- stats section -->
 
