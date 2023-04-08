@@ -40,3 +40,5 @@
 <!-- https://medium.com/@lordsonochuko8 -->
 <!-- [![LICHESS](https://img.shields.io/badge/-Lichess-orange?style=social&logo=lichess)](https://lichess.org/@/Simon_ximon) -->
 [![LINKEDIN](https://img.shields.io/badge/-LinkedIn-orange?style=social&logo=linkedin)](https://www.linkedin.com/in/lordson-ajatiton-software-engineer/)
+
+![Snake animation](https://github.com/lordson-silver/lordson-silver/blob/main/snake.svg)
