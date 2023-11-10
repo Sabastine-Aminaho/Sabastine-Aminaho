@@ -1,3 +1,5 @@
+# Hi I'm Sabastine Aminaho a Software Developer
+
 <!-- <img src="https://github.com/lordson-silver/assets/blob/main/profile-asset-gif.gif" /> -->
 
 ---
