@@ -32,7 +32,6 @@
 
 ### Connect with Me:
 [![DISCORD](https://img.shields.io/badge/-Discord-FF4500?style=social&logo=discord)](https://)
-[![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=social&logo=reddit)](https://)
 <!-- [![MEDIUM](https://img.shields.io/badge/-Medium-orange?style=social&logo=medium)](https://simon-ximon.medium.com/) -->
 <!-- https://medium.com/@lordsonochuko8 -->
 <!-- [![LICHESS](https://img.shields.io/badge/-Lichess-orange?style=social&logo=lichess)](https://lichess.org/@/Simon_ximon) -->
