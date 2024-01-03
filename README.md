@@ -1,4 +1,4 @@
-# Hi I'm Sabastine Aminaho a Software Developer
+# Hi I'm Ndukaegho Sabastine Aminaho a Frontend Developer
 
 <!-- <img src="https://github.com/lordson-silver/assets/blob/main/profile-asset-gif.gif" /> -->
 
@@ -6,11 +6,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sabastine-Aminaho&label=Profile%20views&color=0e75b6&style=flat" alt="Sabastine-Aminaho" /> </p>
 
-- 📫 Have an Idea? Contact me 👉🏿 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:@)
+- 📫 Have an Idea? Contact me 👉🏿 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:ndukaeghoaminaho@gmail.com)
 
 <!-- stats section -->
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordson-silver&show_icons=true&hide_border=true" /> -->
+ftats.vercel.app/api?username=lordson-silver&show_icons=true&hide_border=true" /> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordson-silver&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <!-- skills section -->
